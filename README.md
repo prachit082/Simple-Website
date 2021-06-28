@@ -6,9 +6,9 @@ All websites are in the diffrent branches so clone or fork to reuse the code.
 
 ### My Blog 🤞
 [Live Preview](https://rohan.ml)
-
-![App Screenshot](https://i.ibb.co/H2T2xG4/portfolio.png)
-
+<p align="center">
+  <img src="portfolio.gif"/>
+</p>
 
 ### HTML Website
 [Live Preview](https://rohan.gq)
