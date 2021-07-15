@@ -19,7 +19,7 @@ All websites are in the diffrent branches so clone or fork to reuse the code.
 </p>
 
 ### Next-Js Website
-[Live Demo](https://nextjs.rohan.gq)
+[Live Demo](https://amrohan.vercel.app)
 
 <p align="center">
   <img src="nextjs.gif"/>
