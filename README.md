@@ -5,6 +5,6 @@
 [Live Demo](https://itsprachit.ml)
 
 <p align="center">
-  <img src="html.gif"/>
+  <img src="ezgif-5-36072547dc.gif"/>
 </p>
 
