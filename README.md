@@ -1,8 +1,8 @@
 
-# Websites ❤️
+# ||Simple Website|| 
 
-### HTML Website
-[Live Demo](https://prachit.ml)
+### HTML,CSS,NextJS Website
+[Live Demo](https://itsprachit.ml)
 
 <p align="center">
   <img src="html.gif"/>
