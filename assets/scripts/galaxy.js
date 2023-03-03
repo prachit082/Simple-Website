@@ -11,7 +11,6 @@ noise = new SimplexNoise(),
 cameraSpeed = 0,
 blobScale = 3;
 
-
 init();
 animate();
 
