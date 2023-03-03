@@ -1,4 +1,5 @@
 var menubtn =document.getElementById("menubtn");
+
 var sidenav =document.getElementById("sidenav");
 
 sidenav.style.right = "-250px";
