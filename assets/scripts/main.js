@@ -11,4 +11,3 @@ menubtn.onclick = function(){
         sidenav.style.right = "-250px"
     }
 }
-
