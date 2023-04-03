@@ -1,7 +1,7 @@
 
 # ||Simple Website|| 
 
-### HTML,CSS,NextJS Website
+### HTML,CSS,JavaScript Website
 ***This is a simple portfolio website*** --->
 [**Click here for "LIVE DEMO"**](https://itsprachit.ml)
 
