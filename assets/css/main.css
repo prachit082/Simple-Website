@@ -75,6 +75,16 @@
     color: #ff153f;
 }
 
+.primary-btn {
+    background-color: #ff153f;
+    color: #fff;
+    padding: 8px 10px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 12px;
+}
+
 /* logo */
 .container {
     margin-right: 100px;
