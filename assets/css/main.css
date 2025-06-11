@@ -228,7 +228,7 @@ footer{
 /* baby yoda */
 .baby-yoda{
     text-align: center;
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 .switch {
@@ -237,6 +237,7 @@ footer{
     width: 600px;
     height: 140px;
     place-items: center;
+    bottom: 40px;
   }
   
   .switch input {
