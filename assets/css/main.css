@@ -75,6 +75,16 @@
     color: #ff153f;
 }
 
+.primary-btn {
+    background-color: #ff153f;
+    color: #fff;
+    padding: 8px 10px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 12px;
+}
+
 /* logo */
 .container {
     margin-right: 100px;
@@ -218,7 +228,7 @@ footer{
 /* baby yoda */
 .baby-yoda{
     text-align: center;
-    margin-top: 40px;
+    margin-top: 5px;
 }
 
 .switch {
@@ -227,6 +237,7 @@ footer{
     width: 600px;
     height: 140px;
     place-items: center;
+    bottom: 40px;
   }
   
   .switch input {
@@ -364,6 +375,7 @@ footer{
         display: inline-block;
         width: 230px;
         height: 65px;
+        bottom: 40px;
       }
 
       .crib {
